@@ -1,7 +1,6 @@
 {
   "homepage": "https://simonlindstrom1.github.io/REACTCV/",
   "name": "reactcv",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,6 +8,7 @@
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "gh-pages-clean": "gh-pages-clean",
     "lint": "eslint .",
     "preview": "vite preview"
   },
