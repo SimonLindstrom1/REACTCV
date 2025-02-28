@@ -1,6 +1,7 @@
 {
   "homepage": "https://simonlindstrom1.github.io/REACTCV/",
   "name": "reactcv",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
